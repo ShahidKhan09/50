@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Copy PNG Image</title>
+  </head>
+  <body>
+    <script>
+      // Replace 'original.png' with the actual filename of your PNG image
+      const originalImagePath = "V1.png";
+
+      // Number of copies you want to create
+      const numberOfCopies = 50;
+
+      // Function to copy the PNG image
+      function copyImage() {
+        const originalImage = new Image();
+        originalImage.src = originalImagePath;
+
+        originalImage.onload = function () {
+          for (let i = 0; i < numberOfCopies; i++) {
+            const copyImage = new Image();
+            copyImage.src = originalImage.src;
+
+            // Optionally, you can append the copied image to the document or perform other actions
+            // For example, you can append it to the body like this:
+            document.body.appendChild(copyImage);
+          }
+        };
+      }
+
+      // Call the copyImage function
+      copyImage();
+    </script>
+  </body>
+</html>
