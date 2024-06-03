@@ -1,21 +1,33 @@
 const fs = require("fs");
-const folderName = "wizard";
+const folderName = "10";
 
 if (!fs.existsSync(folderName)) {
   fs.mkdirSync(folderName);
 }
 
-for (let i = 1; i <= 2000; i++) {
-  const jsonObject = {
-    name: "Core Journey Ticket",
-    description: "Wizard NFts Json",
-    image: `https://copper-central-halibut-875.mypinata.cloud/ipfs/QmZ3uVoSzYcmUinEUzvcS7tXJciQo4DyahiKxBzBN4rk5x/1.png`,
-  };
-
-  const jsonString = JSON.stringify(jsonObject, null, 2);
-  const fileName = `${folderName}/${i}.json`;
-
-  fs.writeFileSync(fileName, jsonString);
-
-  console.log(`${fileName} created successfully.`);
+const filesArray = [];
+for (let j = 0; j < 10; j++) {
+  filesArray.push(
+    "https://copper-central-halibut-875.mypinata.cloud/ipfs/QmZvEeV5KiZnvBP4iyVjX2GATx84RyqKxa7qebSTs3zX2K/3994.jpg"
+  );
 }
+
+const jsonObject = {
+  _id: {
+    $oid: "65f207407ebf1ac224cc46d3",
+  },
+  launchpadId: {
+    $oid: "65f1dacbb4525aaa70872c2c",
+  },
+  creatorId: {
+    $oid: "65f1d2847ebf1ac224cc1945",
+  },
+  files: filesArray,
+};
+
+const jsonString = JSON.stringify(jsonObject, null, 2);
+const fileName = `${folderName}/1.json`;
+
+fs.writeFileSync(fileName, jsonString);
+
+console.log(`${fileName} created successfully.`);

@@ -1,0 +1,289 @@
+[{
+  "_id": {
+    "$oid": "65f2c1b1c2b0cb2a9ddc27b2"
+  },
+  "nft": "https://copper-central-halibut-875.mypinata.cloud/ipfs/QmZvEeV5KiZnvBP4iyVjX2GATx84RyqKxa7qebSTs3zX2K/3994.png",
+  "biderAddress": "0x6eb3d3726ca0a394ef8668a8cfdb5073f676dd97",
+  "bidPrice": 0.0011,
+  "tokenID": 13,
+  "collectionAddress": "0x85b750268636ba5bea4940f936cf48185abbc585",
+  "launchpadId": {
+    "$oid": "65f20f04b4525aaa70d99c97"
+  },
+  "creatorId": {
+    "$oid": "65f1d2847ebf1ac224cc1945"
+  },
+  "nftId": {
+    "$oid": "65f2b6bc530ae59af9c1281d"
+  },
+  "createdAt": {
+    "$date": "2024-03-14T09:21:53.775Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T09:21:53.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f2c8e1c2b0cb2a9ddc7871"
+  },
+  "nft": "https://copper-central-halibut-875.mypinata.cloud/ipfs/QmZvEeV5KiZnvBP4iyVjX2GATx84RyqKxa7qebSTs3zX2K/3994.png",
+  "biderAddress": "0x449ed4b189f600eea7d5c5036a45edc1bd952622",
+  "bidPrice": 0.0132,
+  "tokenID": 13,
+  "collectionAddress": "0x85b750268636ba5bea4940f936cf48185abbc585",
+  "launchpadId": {
+    "$oid": "65f20f04b4525aaa70d99c97"
+  },
+  "creatorId": {
+    "$oid": "65f1d2847ebf1ac224cc1945"
+  },
+  "nftId": {
+    "$oid": "65f2b6bc530ae59af9c1281d"
+  },
+  "createdAt": {
+    "$date": "2024-03-14T09:52:33.563Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T09:52:33.563Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f39196c2b0cb2a9de1e5ef"
+  },
+  "nft": "https://copper-central-halibut-875.mypinata.cloud/ipfs/QmZvEeV5KiZnvBP4iyVjX2GATx84RyqKxa7qebSTs3zX2K/3994.jpg",
+  "biderAddress": "0x16a4dab93f1094aa8d2f6fa4c99f54bd4f39ab8e",
+  "bidPrice": 2.31,
+  "tokenID": 52,
+  "collectionAddress": "0x85b750268636ba5bea4940f936cf48185abbc585",
+  "launchpadId": {
+    "$oid": "65f20f04b4525aaa70d99c97"
+  },
+  "creatorId": {
+    "$oid": "65f1d2847ebf1ac224cc1945"
+  },
+  "nftId": {
+    "$oid": "65f2b6ca530ae59af9c1304f"
+  },
+  "createdAt": {
+    "$date": "2024-03-15T00:08:54.043Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T00:08:54.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f40423c2b0cb2a9de3e291"
+  },
+  "nft": "https://copper-central-halibut-875.mypinata.cloud/ipfs/QmZ3uVoSzYcmUinEUzvcS7tXJciQo4DyahiKxBzBN4rk5x/1.png",
+  "biderAddress": "0x1d7c5d63ff326a816efce1c0d492ea5375e4e191",
+  "bidPrice": 2.42,
+  "tokenID": 949,
+  "collectionAddress": "0xe10956839fded42f1454a4475c7a9f9db43a6661",
+  "launchpadId": {
+    "$oid": "65f0ccfbb4525aaa70b3cf44"
+  },
+  "creatorId": {
+    "$oid": "65f0ccbf8d041138b52290cf"
+  },
+  "nftId": {
+    "$oid": "65f1f2a039a28b8fd7446266"
+  },
+  "createdAt": {
+    "$date": "2024-03-15T08:17:39.412Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T20:47:28.770Z"
+  },
+  "__v": 0,
+  "status": "accept"
+},
+{
+  "_id": {
+    "$oid": "65f460adc2b0cb2a9de4a1b6"
+  },
+  "nft": "https://copper-central-halibut-875.mypinata.cloud/ipfs/QmZvEeV5KiZnvBP4iyVjX2GATx84RyqKxa7qebSTs3zX2K/3994.jpg",
+  "biderAddress": "0x06abf6c6f20f83073f71a02a7d21a79d0471b4da",
+  "bidPrice": 0.0011,
+  "tokenID": 0,
+  "collectionAddress": "0x85b750268636ba5bea4940f936cf48185abbc585",
+  "launchpadId": {
+    "$oid": "65f20f04b4525aaa70d99c97"
+  },
+  "creatorId": {
+    "$oid": "65f1d2847ebf1ac224cc1945"
+  },
+  "nftId": {
+    "$oid": "65f2b694530ae59af9c117e1"
+  },
+  "createdAt": {
+    "$date": "2024-03-15T14:52:29.334Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T14:52:29.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f46136c2b0cb2a9de4a259"
+  },
+  "nft": "https://copper-central-halibut-875.mypinata.cloud/ipfs/QmZvEeV5KiZnvBP4iyVjX2GATx84RyqKxa7qebSTs3zX2K/3994.jpg",
+  "biderAddress": "0x44484f00109d75f05a9f8723891cb6529c865b81",
+  "bidPrice": 0.0022,
+  "tokenID": 0,
+  "collectionAddress": "0x85b750268636ba5bea4940f936cf48185abbc585",
+  "launchpadId": {
+    "$oid": "65f20f04b4525aaa70d99c97"
+  },
+  "creatorId": {
+    "$oid": "65f1d2847ebf1ac224cc1945"
+  },
+  "nftId": {
+    "$oid": "65f2b694530ae59af9c117e1"
+  },
+  "createdAt": {
+    "$date": "2024-03-15T14:54:46.448Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T14:56:25.804Z"
+  },
+  "__v": 0,
+  "status": "accept"
+},
+{
+  "_id": {
+    "$oid": "65f462cfc2b0cb2a9de4a5ad"
+  },
+  "nft": "https://copper-central-halibut-875.mypinata.cloud/ipfs/QmZvEeV5KiZnvBP4iyVjX2GATx84RyqKxa7qebSTs3zX2K/3994.jpg",
+  "biderAddress": "0x3805bda76d3d52496ca849d1188a0a4bd1beeac3",
+  "bidPrice": 0.000134,
+  "tokenID": 3974,
+  "collectionAddress": "0x85b750268636ba5bea4940f936cf48185abbc585",
+  "launchpadId": {
+    "$oid": "65f20f04b4525aaa70d99c97"
+  },
+  "creatorId": {
+    "$oid": "65f1d2847ebf1ac224cc1945"
+  },
+  "nftId": {
+    "$oid": "65f2b695530ae59af9c117e9"
+  },
+  "createdAt": {
+    "$date": "2024-03-15T15:01:35.562Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T15:01:35.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f46309c2b0cb2a9de4a644"
+  },
+  "nft": "https://copper-central-halibut-875.mypinata.cloud/ipfs/QmZvEeV5KiZnvBP4iyVjX2GATx84RyqKxa7qebSTs3zX2K/3994.jpg",
+  "biderAddress": "0x2ccc5297744e60fd5f0b3c40b7d11ede6b9d11ec",
+  "bidPrice": 0.00022,
+  "tokenID": 3974,
+  "collectionAddress": "0x85b750268636ba5bea4940f936cf48185abbc585",
+  "launchpadId": {
+    "$oid": "65f20f04b4525aaa70d99c97"
+  },
+  "creatorId": {
+    "$oid": "65f1d2847ebf1ac224cc1945"
+  },
+  "nftId": {
+    "$oid": "65f2b695530ae59af9c117e9"
+  },
+  "createdAt": {
+    "$date": "2024-03-15T15:02:33.267Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T15:05:49.836Z"
+  },
+  "__v": 0,
+  "status": "accept"
+},
+{
+  "_id": {
+    "$oid": "65f46504c2b0cb2a9de4ab9e"
+  },
+  "nft": "https://copper-central-halibut-875.mypinata.cloud/ipfs/QmZvEeV5KiZnvBP4iyVjX2GATx84RyqKxa7qebSTs3zX2K/3994.jpg",
+  "biderAddress": "0x786b45a3e4299bdeceaa588b4002e3f9bfbda03e",
+  "bidPrice": 0.002794,
+  "tokenID": 0,
+  "collectionAddress": "0x85b750268636ba5bea4940f936cf48185abbc585",
+  "launchpadId": {
+    "$oid": "65f20f04b4525aaa70d99c97"
+  },
+  "creatorId": {
+    "$oid": "65f1d2847ebf1ac224cc1945"
+  },
+  "nftId": {
+    "$oid": "65f2b694530ae59af9c117e1"
+  },
+  "createdAt": {
+    "$date": "2024-03-15T15:11:00.885Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T15:11:00.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f464ccc2b0cb2a9de4ab08"
+  },
+  "nft": "https://copper-central-halibut-875.mypinata.cloud/ipfs/QmZvEeV5KiZnvBP4iyVjX2GATx84RyqKxa7qebSTs3zX2K/3994.jpg",
+  "biderAddress": "0x2ccc5297744e60fd5f0b3c40b7d11ede6b9d11ec",
+  "bidPrice": 0.00253,
+  "tokenID": 0,
+  "collectionAddress": "0x85b750268636ba5bea4940f936cf48185abbc585",
+  "launchpadId": {
+    "$oid": "65f20f04b4525aaa70d99c97"
+  },
+  "creatorId": {
+    "$oid": "65f1d2847ebf1ac224cc1945"
+  },
+  "nftId": {
+    "$oid": "65f2b694530ae59af9c117e1"
+  },
+  "createdAt": {
+    "$date": "2024-03-15T15:10:04.143Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T15:10:04.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f5c442039290d0e3e2fad1"
+  },
+  "nft": "https://copper-central-halibut-875.mypinata.cloud/ipfs/QmZ3uVoSzYcmUinEUzvcS7tXJciQo4DyahiKxBzBN4rk5x/1.png",
+  "biderAddress": "0xaa0da0fa6d4c93a2518ced75fe0b75e04f363f1c",
+  "bidPrice": 2.2,
+  "tokenID": 495,
+  "collectionAddress": "0xe10956839fded42f1454a4475c7a9f9db43a6661",
+  "launchpadId": {
+    "$oid": "65f0ccfbb4525aaa70b3cf44"
+  },
+  "creatorId": {
+    "$oid": "65f0ccbf8d041138b52290cf"
+  },
+  "nftId": {
+    "$oid": "65f1f2d4af9ef7d89f476ea6"
+  },
+  "createdAt": {
+    "$date": "2024-03-14T09:21:53.775Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T09:21:53.775Z"
+  },
+  "__v": 0
+}]
