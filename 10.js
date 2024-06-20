@@ -1,15 +1,15 @@
 const fs = require("fs");
-const folderName = "Land of Warriors json";
+const folderName = "Hazmat Suit Male";
 
 if (!fs.existsSync(folderName)) {
   fs.mkdirSync(folderName);
 }
 
-for (let i = 0; i <= 69; i++) {
+for (let i = 0; i <= 1200; i++) {
   const jsonObject = {
     name: "Land of Warriors",
     description: "Core Collection Land of Warriors 70 NFTs.",
-    image: `/QmaiZEUQTBThTE2dtvJQEBt7XkGxzHLxQcPeHXLUQgEgeY/${i + 1}.jpg`,
+    image: `/QmUwDUP7mVJXYWhev3nG8mtm4uDQWrhf9T7GDbm3rbZrpP/${i + 1}.jpg`,
   };
 
   const jsonString = JSON.stringify(jsonObject, null, 2);
