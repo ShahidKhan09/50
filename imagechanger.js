@@ -1,7 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
-const folderName = "MetaData"; // Replace with your actual folder name
+const folderName = "MetaData"; // Replace with your actual folder name Ok ?
+
 
 // Ensure folder exists
 if (!fs.existsSync(folderName)) {
