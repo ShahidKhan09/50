@@ -1,0 +1,40 @@
+{
+  "name": "VR Headset #323",
+  "description": "Male",
+  "image": "ipfs://QmTpXCwQZ74nYxpr1FamfbGkvsEexE2wt3qnyLMMtrNqiE/7360.png",
+  "edition": 4220,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Night Vision Goggles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goatee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "LED Light Necklace"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sea"
+    }
+  ]
+}

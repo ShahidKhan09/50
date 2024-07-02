@@ -1,0 +1,40 @@
+{
+  "name": "Male #37",
+  "description": "Last",
+  "image": "ipfs://QmenML33QPRUphjCawaR9LnSTJSmAG5gMW5qvVYZBhZ8qW/1431.png",
+  "edition": 21337,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Masquerade Mask"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Face Mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Red Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Lanyard"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Silhouette"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Fire"
+    }
+  ]
+}

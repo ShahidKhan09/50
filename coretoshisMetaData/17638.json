@@ -1,0 +1,40 @@
+{
+  "name": "Male #577",
+  "description": "Final",
+  "image": "ipfs://QmYyHqQS2qUjuYWuzjvc87EPFGJV6HX2NYDgrbAeSEJUJL/17638.png",
+  "edition": 10490,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Makeup"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Balaclava Mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Golf Shirt"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Robot Skin"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sea"
+    }
+  ]
+}

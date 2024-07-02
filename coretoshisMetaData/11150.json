@@ -1,0 +1,40 @@
+{
+  "name": "Helmets #835",
+  "description": "Male",
+  "image": "ipfs://QmbBheuXj6C7dMV38NvryfzDHJmGXK5MnkvuKhtyMJmzEj/11150.png",
+  "edition": 6834,
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Spartan Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stubble"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Pearls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Luminescent"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sun"
+    }
+  ]
+}

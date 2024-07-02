@@ -1,0 +1,40 @@
+{
+  "name": "Male #236",
+  "description": "Third Eye",
+  "image": "ipfs://QmYyHqQS2qUjuYWuzjvc87EPFGJV6HX2NYDgrbAeSEJUJL/17163.png",
+  "edition": 20211,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Makeup"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Orange Hair"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Diamond Necklace"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Winter Coat"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Plain Orange"
+    }
+  ]
+}

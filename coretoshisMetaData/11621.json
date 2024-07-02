@@ -1,0 +1,40 @@
+{
+  "name": "Male #145",
+  "description": "Third Eye",
+  "image": "ipfs://QmbBheuXj6C7dMV38NvryfzDHJmGXK5MnkvuKhtyMJmzEj/11621.png",
+  "edition": 20120,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic Lenses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monk Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Hair"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caesar Tunic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sea"
+    }
+  ]
+}

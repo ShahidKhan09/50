@@ -1,0 +1,40 @@
+{
+  "name": "Male #169",
+  "description": "Final",
+  "image": "ipfs://QmenML33QPRUphjCawaR9LnSTJSmAG5gMW5qvVYZBhZ8qW/1568.png",
+  "edition": 10082,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Cybernetic Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Santa Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Black Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "LED Light Necklace"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian Shirt"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Space"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Male #4372",
+  "description": "Final",
+  "image": "ipfs://QmYyHqQS2qUjuYWuzjvc87EPFGJV6HX2NYDgrbAeSEJUJL/16731.png",
+  "edition": 14285,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Red Lazer Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed Lips"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Amulets"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Specialty None"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Cloud"
+    }
+  ]
+}

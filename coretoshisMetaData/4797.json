@@ -1,0 +1,40 @@
+{
+  "name": "Bandana Cover Third Eye #20",
+  "description": "Male",
+  "image": "ipfs://QmYLQxycdTNVdPiM8AHACdD5p1dTz8MzpMRBUgUCogX76N/4797.png",
+  "edition": 2439,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandana Cover"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Hair"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Cravats"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caesar Tunic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Silhouette"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Fire"
+    }
+  ]
+}

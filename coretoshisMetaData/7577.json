@@ -1,0 +1,40 @@
+{
+  "name": "VR Headset #472",
+  "description": "Male",
+  "image": "ipfs://QmTpXCwQZ74nYxpr1FamfbGkvsEexE2wt3qnyLMMtrNqiE/7577.png",
+  "edition": 4369,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Night Vision Goggles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monk Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Diamond Necklace"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caesar Tunic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Archer"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sun"
+    }
+  ]
+}

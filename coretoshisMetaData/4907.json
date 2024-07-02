@@ -1,0 +1,40 @@
+{
+  "name": "Bandana Cover Third Eye #91",
+  "description": "Male",
+  "image": "ipfs://QmYLQxycdTNVdPiM8AHACdD5p1dTz8MzpMRBUgUCogX76N/4907.png",
+  "edition": 2510,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Frames"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandana Cover"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Hair"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Tie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Asian"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Cloud"
+    }
+  ]
+}

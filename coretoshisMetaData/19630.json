@@ -1,0 +1,40 @@
+{
+  "name": "Final Last #397",
+  "description": "Female",
+  "image": "ipfs://QmPs4u7ZGh7wwxmSRkMHbCCYJTFp4WBUHAw7VUHNcHFx8X/19630.png",
+  "edition": 16448,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Orange Lazer Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Balaclava Mask"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Feather Boas"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jersey"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Specialty None"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Cloud"
+    }
+  ]
+}

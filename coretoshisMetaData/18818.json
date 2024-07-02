@@ -1,0 +1,40 @@
+{
+  "name": "Male Last #137",
+  "description": "Bald",
+  "image": "ipfs://QmPs4u7ZGh7wwxmSRkMHbCCYJTFp4WBUHAw7VUHNcHFx8X/18818.png",
+  "edition": 15857,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Cybernetic Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile With Teeth"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Amulets"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Looking The Other Way"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Plain Orange"
+    }
+  ]
+}

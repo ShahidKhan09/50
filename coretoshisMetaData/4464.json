@@ -1,0 +1,40 @@
+{
+  "name": "400 #134",
+  "description": "Last New",
+  "image": "ipfs://QmYLQxycdTNVdPiM8AHACdD5p1dTz8MzpMRBUgUCogX76N/4464.png",
+  "edition": 21434,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Makeup"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile With Teeth"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tracksuit"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Looking The Other Way"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Cloud"
+    }
+  ]
+}

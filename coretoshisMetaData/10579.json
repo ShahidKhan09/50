@@ -1,0 +1,40 @@
+{
+  "name": "Male #76",
+  "description": "Third Eye",
+  "image": "ipfs://QmbBheuXj6C7dMV38NvryfzDHJmGXK5MnkvuKhtyMJmzEj/10579.png",
+  "edition": 20051,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Santa Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Indiana Jones Hat"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Armor"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Cloud"
+    }
+  ]
+}

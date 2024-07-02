@@ -1,0 +1,40 @@
+{
+  "name": "VR Headset #1467",
+  "description": "Male",
+  "image": "ipfs://QmTpXCwQZ74nYxpr1FamfbGkvsEexE2wt3qnyLMMtrNqiE/8974.png",
+  "edition": 5364,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile With Teeth"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Neon Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Amulets"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Specialty None"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Cloud"
+    }
+  ]
+}

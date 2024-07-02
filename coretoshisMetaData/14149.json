@@ -1,0 +1,40 @@
+{
+  "name": "Male #333",
+  "description": "Final",
+  "image": "ipfs://QmTXDvs2ttvv4pm1aS52bCZmmNzTuEPTeKndr7zU8AR3xT/14149.png",
+  "edition": 10246,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Makeup"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goatee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Black Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Plain Orange"
+    }
+  ]
+}

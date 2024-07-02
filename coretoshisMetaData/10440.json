@@ -1,0 +1,40 @@
+{
+  "name": "Helmets #368",
+  "description": "Male",
+  "image": "ipfs://QmbBheuXj6C7dMV38NvryfzDHJmGXK5MnkvuKhtyMJmzEj/10440.png",
+  "edition": 6367,
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Ninja Hood"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stubble"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Tie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Archer"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Mountain"
+    }
+  ]
+}

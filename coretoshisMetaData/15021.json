@@ -1,0 +1,40 @@
+{
+  "name": "Male #3156",
+  "description": "Final",
+  "image": "ipfs://QmYyHqQS2qUjuYWuzjvc87EPFGJV6HX2NYDgrbAeSEJUJL/15021.png",
+  "edition": 13069,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Wooden Frames"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed Lips"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Brown Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Pearls"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Winter Coat"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Luminescent"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Fire"
+    }
+  ]
+}

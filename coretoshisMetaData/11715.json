@@ -1,0 +1,40 @@
+{
+  "name": "Bandana Cover #196",
+  "description": "Female",
+  "image": "ipfs://QmbBheuXj6C7dMV38NvryfzDHJmGXK5MnkvuKhtyMJmzEj/11715.png",
+  "edition": 721,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandana Cover"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Luminescent"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sun"
+    }
+  ]
+}

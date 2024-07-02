@@ -1,0 +1,40 @@
+{
+  "name": "VR Headset #432",
+  "description": "Male",
+  "image": "ipfs://QmTpXCwQZ74nYxpr1FamfbGkvsEexE2wt3qnyLMMtrNqiE/7525.png",
+  "edition": 4329,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monk Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Red Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Pearls"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Asian"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Archer"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Cloud"
+    }
+  ]
+}

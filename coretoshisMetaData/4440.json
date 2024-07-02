@@ -1,0 +1,40 @@
+{
+  "name": "400 #118",
+  "description": "Last New",
+  "image": "ipfs://QmYLQxycdTNVdPiM8AHACdD5p1dTz8MzpMRBUgUCogX76N/4440.png",
+  "edition": 21418,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Cravats"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sun"
+    }
+  ]
+}

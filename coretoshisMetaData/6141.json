@@ -1,0 +1,40 @@
+{
+  "name": "Hazmat Suit #128",
+  "description": "Male",
+  "image": "ipfs://QmTpXCwQZ74nYxpr1FamfbGkvsEexE2wt3qnyLMMtrNqiE/6141.png",
+  "edition": 333,
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Head None"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Neck None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hazmat Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Makeup"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Luminescent"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Seas"
+    }
+  ]
+}

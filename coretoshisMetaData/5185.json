@@ -1,0 +1,40 @@
+{
+  "name": "Male #1326",
+  "description": "Final",
+  "image": "ipfs://QmYLQxycdTNVdPiM8AHACdD5p1dTz8MzpMRBUgUCogX76N/5185.png",
+  "edition": 11239,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Makeup"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "LED Light Necklace"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Archer"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Cloud"
+    }
+  ]
+}

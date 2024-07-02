@@ -1,0 +1,40 @@
+{
+  "name": "Male #1151",
+  "description": "Final",
+  "image": "ipfs://QmenML33QPRUphjCawaR9LnSTJSmAG5gMW5qvVYZBhZ8qW/1150.png",
+  "edition": 11064,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goatee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Feather Boas"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank Top"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Archer"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Cloud"
+    }
+  ]
+}

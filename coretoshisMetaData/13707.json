@@ -1,0 +1,40 @@
+{
+  "name": "Male #2276",
+  "description": "Final",
+  "image": "ipfs://QmTXDvs2ttvv4pm1aS52bCZmmNzTuEPTeKndr7zU8AR3xT/13707.png",
+  "edition": 12189,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic Lenses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Pearls"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Asian"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Archer"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Plain Orange"
+    }
+  ]
+}

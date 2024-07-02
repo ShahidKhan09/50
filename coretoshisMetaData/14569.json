@@ -1,0 +1,40 @@
+{
+  "name": "Male #2858",
+  "description": "Final",
+  "image": "ipfs://QmTXDvs2ttvv4pm1aS52bCZmmNzTuEPTeKndr7zU8AR3xT/14569.png",
+  "edition": 12771,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Cybernetic Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Santa Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Brown Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "LED Light Necklace"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Winter Coat"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Asian"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Specialty None"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sun"
+    }
+  ]
+}

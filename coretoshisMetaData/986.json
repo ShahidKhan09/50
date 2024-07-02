@@ -1,0 +1,40 @@
+{
+  "name": "Final Last #2109",
+  "description": "Female",
+  "image": "ipfs://QmenML33QPRUphjCawaR9LnSTJSmAG5gMW5qvVYZBhZ8qW/986.png",
+  "edition": 18160,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Frames"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Blonde Hair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Sticking Out"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Diamond Necklace"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tracksuit"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Luminescent"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Cloud"
+    }
+  ]
+}

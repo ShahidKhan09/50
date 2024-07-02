@@ -1,0 +1,40 @@
+{
+  "name": "Helmets #1063",
+  "description": "Male",
+  "image": "ipfs://QmbBheuXj6C7dMV38NvryfzDHJmGXK5MnkvuKhtyMJmzEj/11494.png",
+  "edition": 7062,
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Winged Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Lanyard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cybernetic Eyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Luminescent"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Fire"
+    }
+  ]
+}

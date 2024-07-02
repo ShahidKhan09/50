@@ -1,0 +1,40 @@
+{
+  "name": "Final Last #3539",
+  "description": "Female",
+  "image": "ipfs://QmTpXCwQZ74nYxpr1FamfbGkvsEexE2wt3qnyLMMtrNqiE/6895.png",
+  "edition": 19590,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Red Lazer Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bangs"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Lips"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Neck None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian Shirt"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Specialty None"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Plain Orange"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Male #1465",
+  "description": "Final",
+  "image": "ipfs://QmTpXCwQZ74nYxpr1FamfbGkvsEexE2wt3qnyLMMtrNqiE/7277.png",
+  "edition": 11378,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Wooden Frames"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jersey"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Asian"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Luminescent"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Fire"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Final Last #1978",
+  "description": "Female",
+  "image": "ipfs://QmenML33QPRUphjCawaR9LnSTJSmAG5gMW5qvVYZBhZ8qW/804.png",
+  "edition": 18029,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baseball Cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Lips"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Lanyard"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caesar Tunic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Specialty None"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Fire"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Male #879",
+  "description": "Third Eye",
+  "image": "ipfs://QmPs4u7ZGh7wwxmSRkMHbCCYJTFp4WBUHAw7VUHNcHFx8X/19915.png",
+  "edition": 20854,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed Lips"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Orange Hair"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Neck None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Plain T-Shirt"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Fire"
+    }
+  ]
+}

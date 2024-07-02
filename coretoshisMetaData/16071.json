@@ -1,0 +1,40 @@
+{
+  "name": "Male #3898",
+  "description": "Final",
+  "image": "ipfs://QmYyHqQS2qUjuYWuzjvc87EPFGJV6HX2NYDgrbAeSEJUJL/16071.png",
+  "edition": 13811,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Santa Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Pearls"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Specialty None"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Cloud"
+    }
+  ]
+}

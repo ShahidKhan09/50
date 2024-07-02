@@ -1,0 +1,40 @@
+{
+  "name": "Male #7",
+  "description": "Third Eye",
+  "image": "ipfs://QmbBheuXj6C7dMV38NvryfzDHJmGXK5MnkvuKhtyMJmzEj/9514.png",
+  "edition": 19982,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monk Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snapback"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Cravats"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Beachwear"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Fire"
+    }
+  ]
+}

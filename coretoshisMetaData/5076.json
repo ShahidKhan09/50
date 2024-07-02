@@ -1,0 +1,40 @@
+{
+  "name": "Male #208",
+  "description": "Final",
+  "image": "ipfs://QmYLQxycdTNVdPiM8AHACdD5p1dTz8MzpMRBUgUCogX76N/5076.png",
+  "edition": 10121,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Cybernetic Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Balaclava Mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Neck None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Armor"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Fire"
+    }
+  ]
+}

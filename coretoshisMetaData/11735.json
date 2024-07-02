@@ -1,0 +1,40 @@
+{
+  "name": "Helmets #1223",
+  "description": "Male",
+  "image": "ipfs://QmbBheuXj6C7dMV38NvryfzDHJmGXK5MnkvuKhtyMJmzEj/11735.png",
+  "edition": 7222,
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Baseball Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stubble"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Neck None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Plain T-Shirt"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Specialty None"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sea"
+    }
+  ]
+}

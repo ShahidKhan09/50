@@ -1,0 +1,40 @@
+{
+  "name": "Final Last #3113",
+  "description": "Female",
+  "image": "ipfs://QmTpXCwQZ74nYxpr1FamfbGkvsEexE2wt3qnyLMMtrNqiE/6404.png",
+  "edition": 19164,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Hair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Sticking Out"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Amulets"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jersey"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Specialty None"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Cloud"
+    }
+  ]
+}

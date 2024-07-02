@@ -1,0 +1,40 @@
+{
+  "name": "VR Headset #388",
+  "description": "Male",
+  "image": "ipfs://QmTpXCwQZ74nYxpr1FamfbGkvsEexE2wt3qnyLMMtrNqiE/7457.png",
+  "edition": 4285,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "VR Headset"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Santa Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Diamond Necklace"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Archer"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Fire"
+    }
+  ]
+}

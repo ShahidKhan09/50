@@ -1,0 +1,40 @@
+{
+  "name": "Helmets #666",
+  "description": "Female",
+  "image": "ipfs://QmYLQxycdTNVdPiM8AHACdD5p1dTz8MzpMRBUgUCogX76N/4147.png",
+  "edition": 8654,
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Winged Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile With Teeth"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Amulets"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian Shirt"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Specialty None"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Fire"
+    }
+  ]
+}

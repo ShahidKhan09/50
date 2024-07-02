@@ -1,0 +1,40 @@
+{
+  "name": "Male #214",
+  "description": "Third Eye",
+  "image": "ipfs://QmTXDvs2ttvv4pm1aS52bCZmmNzTuEPTeKndr7zU8AR3xT/13752.png",
+  "edition": 20189,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goatee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Hair"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Pearls"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Asian"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Fire"
+    }
+  ]
+}

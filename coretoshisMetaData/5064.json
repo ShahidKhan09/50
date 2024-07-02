@@ -1,0 +1,40 @@
+{
+  "name": "VR Headset #60",
+  "description": "Female",
+  "image": "ipfs://QmYLQxycdTNVdPiM8AHACdD5p1dTz8MzpMRBUgUCogX76N/5064.png",
+  "edition": 2613,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "VR Headset"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile With Teeth"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Neck None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Winter Coat"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Specialty None"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sun"
+    }
+  ]
+}

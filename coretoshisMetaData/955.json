@@ -1,0 +1,40 @@
+{
+  "name": "Male #1002",
+  "description": "Final",
+  "image": "ipfs://QmenML33QPRUphjCawaR9LnSTJSmAG5gMW5qvVYZBhZ8qW/955.png",
+  "edition": 10915,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Frames"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Santa Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Brown Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Feather Boas"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tracksuit"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Luminescent"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sun"
+    }
+  ]
+}

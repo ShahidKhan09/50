@@ -1,0 +1,40 @@
+{
+  "name": "VR Headset #181",
+  "description": "Male",
+  "image": "ipfs://QmTpXCwQZ74nYxpr1FamfbGkvsEexE2wt3qnyLMMtrNqiE/7154.png",
+  "edition": 4078,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goatee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Neon Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Cravats"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wizard Robe"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Robot Skin"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sun"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Male #4373",
+  "description": "Final",
+  "image": "ipfs://QmYyHqQS2qUjuYWuzjvc87EPFGJV6HX2NYDgrbAeSEJUJL/16733.png",
+  "edition": 14286,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Frames"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed Lips"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Orange Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Diamond Necklace"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tracksuit"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Specialty None"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Cloud"
+    }
+  ]
+}

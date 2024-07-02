@@ -1,0 +1,40 @@
+{
+  "name": "Male #380",
+  "description": "Final",
+  "image": "ipfs://QmTXDvs2ttvv4pm1aS52bCZmmNzTuEPTeKndr7zU8AR3xT/14858.png",
+  "edition": 10293,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Face Mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Brown Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Pearls"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jersey"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sea"
+    }
+  ]
+}

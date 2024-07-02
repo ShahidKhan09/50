@@ -1,0 +1,40 @@
+{
+  "name": "Helmets #32",
+  "description": "Female",
+  "image": "ipfs://QmYyHqQS2qUjuYWuzjvc87EPFGJV6HX2NYDgrbAeSEJUJL/15597.png",
+  "edition": 8020,
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Ninja Hood"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Lips"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Pearls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Camo"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sun"
+    }
+  ]
+}

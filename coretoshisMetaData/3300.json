@@ -1,0 +1,40 @@
+{
+  "name": "Male #303",
+  "description": "Last",
+  "image": "ipfs://QmYLQxycdTNVdPiM8AHACdD5p1dTz8MzpMRBUgUCogX76N/3300.png",
+  "edition": 21603,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Red Lazer Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monk Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "LED Light Necklace"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian Shirt"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Plain Orange"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Male #255",
+  "description": "Final",
+  "image": "ipfs://QmbBheuXj6C7dMV38NvryfzDHJmGXK5MnkvuKhtyMJmzEj/11986.png",
+  "edition": 10168,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Wooden Frames"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Balaclava Mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Blonde Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Cravats"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Luminescent"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Mountain"
+    }
+  ]
+}

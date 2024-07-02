@@ -1,0 +1,40 @@
+{
+  "name": "Male #627",
+  "description": "Final",
+  "image": "ipfs://QmPs4u7ZGh7wwxmSRkMHbCCYJTFp4WBUHAw7VUHNcHFx8X/18344.png",
+  "edition": 10540,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monk Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Neon Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Lanyard"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Beachwear"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Space"
+    }
+  ]
+}

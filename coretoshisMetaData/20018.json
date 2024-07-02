@@ -1,0 +1,40 @@
+{
+  "name": "Helmets #327",
+  "description": "Female",
+  "image": "ipfs://QmPs4u7ZGh7wwxmSRkMHbCCYJTFp4WBUHAw7VUHNcHFx8X/20018.png",
+  "edition": 8315,
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Baseball Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Balaclava Mask"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Amulets"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Holographic Lenses"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Plain T-Shirt"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Looking The Other Way"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Fire"
+    }
+  ]
+}

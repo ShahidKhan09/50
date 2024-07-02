@@ -1,0 +1,40 @@
+{
+  "name": "Final Last #378",
+  "description": "Female",
+  "image": "ipfs://QmYLQxycdTNVdPiM8AHACdD5p1dTz8MzpMRBUgUCogX76N/3962.png",
+  "edition": 22078,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Hair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Balaclava Mask"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Diamond Necklace"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Silhouette"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Looking The Other Way"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sun"
+    }
+  ]
+}

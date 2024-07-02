@@ -1,0 +1,40 @@
+{
+  "name": "VR Headset #143",
+  "description": "Male",
+  "image": "ipfs://QmTpXCwQZ74nYxpr1FamfbGkvsEexE2wt3qnyLMMtrNqiE/7099.png",
+  "edition": 4040,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Night Vision Goggles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard Hat"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Diamond Necklace"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Regal Garb"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Robot Skin"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Specialty None"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Sea"
+    }
+  ]
+}

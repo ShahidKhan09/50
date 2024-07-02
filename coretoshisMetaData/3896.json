@@ -1,0 +1,40 @@
+{
+  "name": "Final Last #329",
+  "description": "Female",
+  "image": "ipfs://QmYLQxycdTNVdPiM8AHACdD5p1dTz8MzpMRBUgUCogX76N/3896.png",
+  "edition": 22029,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Red Lazer Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Lips"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Cravats"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tracksuit"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Asian"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Looking The Other Way"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Mountain"
+    }
+  ]
+}

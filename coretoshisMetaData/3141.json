@@ -1,0 +1,40 @@
+{
+  "name": "Male #189",
+  "description": "Last",
+  "image": "ipfs://QmYLQxycdTNVdPiM8AHACdD5p1dTz8MzpMRBUgUCogX76N/3141.png",
+  "edition": 21489,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Orange Lazer Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard Hat"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Plain T-Shirt"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Luminescent"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Fire"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Final Last #2354",
+  "description": "Female",
+  "image": "ipfs://QmenML33QPRUphjCawaR9LnSTJSmAG5gMW5qvVYZBhZ8qW/1327.png",
+  "edition": 18405,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Wooden Frames"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Lips"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Neck None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tracksuit"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Luminescent"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Cloud"
+    }
+  ]
+}

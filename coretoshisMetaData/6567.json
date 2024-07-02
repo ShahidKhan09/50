@@ -1,0 +1,40 @@
+{
+  "name": "Hazmat Suit #157",
+  "description": "Male",
+  "image": "ipfs://QmTpXCwQZ74nYxpr1FamfbGkvsEexE2wt3qnyLMMtrNqiE/6567.png",
+  "edition": 362,
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Head None"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Neck None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hazmat Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed Eyes"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Luminescent"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Clouds"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Hazmat Suit #37",
+  "description": "Male",
+  "image": "ipfs://QmYLQxycdTNVdPiM8AHACdD5p1dTz8MzpMRBUgUCogX76N/4770.png",
+  "edition": 242,
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Head None"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Neck None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hazmat Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Robot Skin"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Luminescent"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Mountains"
+    }
+  ]
+}

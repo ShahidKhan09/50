@@ -1,0 +1,40 @@
+{
+  "name": "Hazmat Suit #2",
+  "description": "Female",
+  "image": "ipfs://QmbBheuXj6C7dMV38NvryfzDHJmGXK5MnkvuKhtyMJmzEj/9784.png",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Head None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth None"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Neck None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hazmat Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Snake Eyes"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dragon Scales"
+    },
+    {
+      "trait_type": "Speciality",
+      "value": "Archer"
+    },
+    {
+      "trait_type": "Backgrounds",
+      "value": "Seas"
+    }
+  ]
+}

@@ -10,7 +10,7 @@ if (!fs.existsSync(folderName)) {
   process.exit(1);
 }
 
-for (let i = 0; i <= 1200; i++) {
+for (let i = 18000; i <= 21000; i++) {
   const filePath = path.join(folderName, `${i}.json`);
   let jsonObject;
 
@@ -22,7 +22,7 @@ for (let i = 0; i <= 1200; i++) {
     continue;
   }
 
-  jsonObject.image = `/QmUwDUP7mVJXYWhev3nG8mtm4uDQWrhf9T7GDbm3rbZrpP/${i + 0}.jpg`;
+  jsonObject.image = `ipfs://QmPs4u7ZGh7wwxmSRkMHbCCYJTFp4WBUHAw7VUHNcHFx8X/${i + 0}.png`;
 
   const jsonString = JSON.stringify(jsonObject, null, 2);
   fs.writeFileSync(filePath, jsonString);

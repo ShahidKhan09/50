@@ -1,15 +1,16 @@
 const fs = require("fs");
-const folderName = "Hazmat Suit Male";
+const folderName = "POAP";
 
 if (!fs.existsSync(folderName)) {
   fs.mkdirSync(folderName);
 }
 
-for (let i = 0; i <= 1200; i++) {
+for (let i = 0; i <= 999; i++) {
   const jsonObject = {
-    name: "Land of Warriors",
-    description: "Core Collection Land of Warriors 70 NFTs.",
-    image: `/QmUwDUP7mVJXYWhev3nG8mtm4uDQWrhf9T7GDbm3rbZrpP/${i + 1}.jpg`,
+    name: "Core University Roadshow POAP",
+    description: "POAP NFTs for Pakistan University Roadshow...",
+    image: `/QmaCqzfkmh6XyYRVWAWehBvNtgQAjoSLYZmdciQXQEWo6X`,
+    // image: `/QmUwDUP7mVJXYWhev3nG8mtm4uDQWrhf9T7GDbm3rbZrpP/${i + 1}.jpg`,
   };
 
   const jsonString = JSON.stringify(jsonObject, null, 2);
